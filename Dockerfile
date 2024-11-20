@@ -1,16 +1,16 @@
+FROM python:3.10
 
-FROM python:latest
-
+# Set the working directory in the container
 WORKDIR /app
 
-COPY requirements.txt /app/
+# Copy all the files from the current directory to /app in the container
+COPY . /app/
 
+# Install FFmpeg
 RUN apt-get update && apt-get install -y ffmpeg
 
-COPY . .
-
+# Install Python dependencies
 RUN pip3 install -r requirements.txt
 
-COPY . /app
-
-CMD python3 bot.py
+# Command to run your Python script
+CMD ["python3", "bot.py"]
