@@ -5,8 +5,7 @@ WORKDIR /app
 
 COPY requirements.txt /app/
 
-RUN apt update && apt upgrade -y
-RUN apt install git python3-pip ffmpeg -y
+RUN apt-get update && apt-get install -y ffmpeg
 
 COPY . .
 
