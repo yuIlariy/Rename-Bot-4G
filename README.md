@@ -41,7 +41,6 @@
 * `START_PIC` - Your Bot Start Command Pic (Optional)
 * `STRING_SESSION` - Premium 4GB Client Pyrogram v2 String Session(Optional).
 </details>
-</b>
 
 ### 😍 COMMANDS
 
