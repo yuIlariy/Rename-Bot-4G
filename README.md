@@ -96,7 +96,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
-- [UPI](https://codexbots.github.io/Donate)
+- [UPI](https://TechifyBots.github.io/Donate)
 
 ### 📌 NOTE
 
