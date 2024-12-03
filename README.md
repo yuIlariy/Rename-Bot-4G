@@ -92,7 +92,7 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/CodeXBro)
+- [Rahul](https://telegram.me/TechifySupport)
 
 ### ☕ BUY ME A COFFEE
 - [PayPal](https://paypal.me/RahulReviews)
