@@ -25,10 +25,10 @@ Price Rs 179  ind /🌎 2.16$  per Month
 Payment Details :-
 <b>➜ UPI ID :</b> <code>RahulReviews@UPI</code>
 
-After Payment Send Screenshots Of Payment To Admin @CodeXBro"""
+After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CodeXBro"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
@@ -57,10 +57,10 @@ Price Rs 179  ind /🌎 2.16$  per Month
 Payment Details :-
 <b>➜ UPI ID :</b> <code>RahulReviews@UPI</code>
 
-After Payment Send Screenshots Of Payment To Admin @CodeXBro"""
+After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CodeXBro"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
