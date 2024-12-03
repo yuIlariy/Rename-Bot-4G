@@ -22,7 +22,7 @@
  - Force subscribe available.
  - Supports ulimited renaming at a time.
  - Deploy to Koyeb + Heroku + Railway + Render.
- - [Developer support](https://telegram.me/CodeXSupport) 24x7
+ - [Developer support](https://telegram.me/TechifySupport) 24x7
 </details>
 
 
@@ -78,55 +78,13 @@ restart - Use This Command To Cancel All Process And Restart The Bot.
 </b>
 </details>
 
-### 📶 DEPLOYEMENT
-<details>
-<summary><b>Tap On Me For Deploy</summary>
-
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-<p align="center"><a href="https://github.com/CodeXBots/Rename-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Rename-Bot&branch=main&name=Rename-Bot">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Rename-Bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Rename-Bot"">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴠᴘs 」─
-</h3>
-<p>
-<pre>
-git clone https://github.com/CodeXBots/Rename-Bot
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
-
 
 ### 🥳 CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots)
+💝 Credit Goes To [TechifyBots](https://github.com/TechifyBots)
 
 💘 Base Repo Credit [Jishu](https://github.com/JishuDeveloper)
 
