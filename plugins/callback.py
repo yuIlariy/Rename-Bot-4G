@@ -82,6 +82,6 @@ async def home_callback_handler(bot, query):
                     InlineKeyboardButton("💬 Support", url="https://telegram.me/TechifySupport")],
                     [InlineKeyboardButton("🛠️ Help", callback_data='help'),
 		            InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/RahulReviewsYT")]
+                    [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/TechifyBots")]
 		  ])
     await query.message.edit_text(text=text, reply_markup=keybord)
