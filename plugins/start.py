@@ -33,14 +33,27 @@ async def start(client, message):
     await asyncio.sleep(2)
     await loading_sticker_message.delete()
     
-    text = f"""{message.from_user.mention} \nɪ  ᴀᴍ  ᴀɴ  ᴀᴅᴠᴀɴᴄᴇ  ꜰɪʟᴇ  ʀᴇɴᴀᴍᴇʀ  ᴀɴᴅ  ᴄᴏɴᴠᴇʀᴛᴇʀ  ʙᴏᴛ  ᴡɪᴛʜ  ᴘᴇʀᴍᴀɴᴇɴᴛ  ᴀɴᴅ  ᴄᴜsᴛᴏᴍ  ᴛʜᴜᴍʙɴᴀɪʟ  sᴜᴘᴘᴏʀᴛ.\n\nᴊᴜsᴛ  sᴇɴᴅ  ᴍᴇ  ᴀɴʏ  ᴠɪᴅᴇᴏ  ᴏʀ ᴅᴏᴄᴜᴍᴇɴᴛ !!\nᴏᴡɴᴇʀ @TechifyBots</b>"""
+    text = f"""{message.from_user.mention} <b>🌟 An Advanced File Renamer &  
+Media Converter Bot 🌟</b>  
+
+⚡ Transform your files effortlessly with  
+this powerful, feature-rich bot!  
+
+✨ <b>Features:</b>  
+🔹 Permanent & custom thumbnail support  
+🔹 Rename files and convert formats  
+🔹 Supports videos/documents  
+
+📩 <i>Just send me any file!</i>  
+
+<b>🏆 ʜᴏꜱᴛᴇᴅ ʙʏ: @modstorexd ꜰᴛ @xspes</b>"""
     
     button = InlineKeyboardMarkup([
-        [InlineKeyboardButton("📢 Updates", url="https://telegram.me/TechifyBots"),
-        InlineKeyboardButton("💬 Support", url="https://telegram.me/TechifySupport")],
+        [InlineKeyboardButton("📢 Updates", url="https://telegram.me/modstorexd"),
+        InlineKeyboardButton("💬 Support", url="https://telegram.me/xspes")],
         [InlineKeyboardButton("🛠️ Help", callback_data='help'),
         InlineKeyboardButton("❤️‍🩹 About", callback_data='about')],
-        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/TechifyBots")]
+        [InlineKeyboardButton("🧑‍💻 Developer 🧑‍💻", url="https://telegram.me/xspes")]
         ])
     
     await message.reply_photo(
@@ -94,7 +107,7 @@ async def send_doc(client, message):
     conversion = datetime.timedelta(seconds=left)
     ltime = str(conversion)
     if left > 0:
-        await message.reply_text(f"<b>Sorry Dude I Am Not Only For You \n\nFlood Control Is Active So Please Wait For {ltime} </b>", reply_to_message_id=message.id)
+        await message.reply_text(f"<b>wait! \n\nFlood Control Is Active So Please Wait For {ltime} </b>", reply_to_message_id=message.id)
     else:
         # Forward a single message
         media = await client.get_messages(message.chat.id, message.id)
