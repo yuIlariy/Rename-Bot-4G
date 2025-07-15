@@ -76,7 +76,7 @@ async def donate(bot,update):
 
 @Client.on_callback_query(filters.regex('home'))
 async def home_callback_handler(bot, query):
-    text = f"""{query.from_user.mention} \n<b>🌟 An Advanced File Renamer &  
+    text = f"""{query.from_user.mention} <b>🌟 An Advanced File Renamer &  
 Media Converter Bot 🌟</b>  
 
 ⚡ Transform your files effortlessly with  
