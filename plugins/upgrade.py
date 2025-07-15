@@ -25,7 +25,7 @@ Price Rs 179  ind /🌎 2.16$  per Month
 Payment Details :-
 <b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @xspes"""
     
     keybord = InlineKeyboardMarkup([
         [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
@@ -57,10 +57,10 @@ Price Rs 179  ind /🌎 2.16$  per Month
 Payment Details :-
 <b>➜ UPI ID :</b> <code>TechifyBots@UPI</code>
 
-After Payment Send Screenshots Of Payment To Admin @CallOwnerBot"""
+After Payment Send Screenshots Of Payment To Admin @xspes"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/xspes"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
