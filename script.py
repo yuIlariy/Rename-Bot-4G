@@ -19,11 +19,11 @@ class script(object):
     ABOUT_TXT = """<b>🤖 My Name :</b> {}
 <b>📝 Language :</b> <a href='https://python.org'>Python 3</a>
 <b>📚 Library :</b> <a href='https://pyrogram.org'>Pyrogram 2.0</a>
-<b>🚀 Server :</b> <a href='https://heroku.com'>Heroku</a>
-<b>📢 Channel :</b> <a href='https://telegram.me/TechifyBots'>Techify Bots</a>
-<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/CallOwnerBot'>Rahul</a>
+<b>🚀 Server :</b> <a href='https://aws.amazon.com/'>aws</a>
+<b>📢 Channel :</b> <a href='https://telegram.me/modstorexd'>premods</a>
+<b>🧑‍💻 Developer :</b> <a href='https://telegram.me/xspes'>xspes</a>
 
-<b>♻️ Bot Made By :</b> @TechifyBots"""
+<b>👾 ʙᴏᴛ ʜᴏꜱᴛᴇᴅ ʙʏ  :</b> @modstorexd"""
 
     DONATE_TXT = """
 <b>🥲 Thanks For Showing Interest In Donation! ❤️</b>
@@ -47,6 +47,6 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
     METADATA_TXT = """<b><u>🖼️  HOW TO SET CUSTOM METADATA</u></b>
 For Example :-
-<code>By @TechifyBots</code>
-💬 For Any Help Contact @TechifySupport
+<code>By @modstorexd</code>
+💬 For Any Help Contact @modstorexd
 """
