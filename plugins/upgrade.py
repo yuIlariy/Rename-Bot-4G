@@ -28,7 +28,7 @@ Payment Details :-
 After Payment Send Screenshots Of Payment To Admin @xspes"""
     
     keybord = InlineKeyboardMarkup([
-        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/CallOwnerBot"),
+        [InlineKeyboardButton("🦋 Admin", url = "https://telegram.me/xspes"),
         InlineKeyboardButton("✖️ Cancel", callback_data="cancel")]
         ])
     
